@@ -1,4 +1,6 @@
 # ESP32 Climate Monitor with Azure & Tuya Integration
+![Language](https://img.shields.io/badge/LANGUAGE-PYTHON-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge)
 
 This project is an end-to-end IoT solution that collects environmental data via an ESP32 microcontroller and autonomously triggers a smart Tuya air conditioning unit through a Microsoft Azure backend.
 
